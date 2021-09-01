@@ -1,5 +1,6 @@
 ## 1. XRR-MDN
-X-ray reflectivity(XRR) data analysis using mixture density network (MDN).
+X-ray reflectivity(XRR) data analysis using mixture density network (MDN).\
+Kook Tae Kim , and Dong Ryeol Lee, Probabilistic Parameter Estimation Using a Gaussian Mixture Density Network: Application to X-ray Reflectivity Data Curve Fitting,xx
 
 - This code is made for the probabilitistic parameter estimation using MDN for the XRR data.
 - Attatched file contains XRR data measured at 11keV for Pt/Co/Pt multilayer system(11keV_3nm.txt), python script(XRRMachinTools.py), and jupyter notebook(TrainMachin.ipynb).
@@ -29,3 +30,6 @@ lmfit
 
 ## 4. How to use?
 Please look into the the jupyter notebook.
+
+## 5. How to cite?
+
