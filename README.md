@@ -7,6 +7,10 @@ All code is written in a object oriented way so that you can easily try the exam
 You can use or modify the code freely.
 Non-commercial purpose only.
 
+## Authors
+Kook Tae Kim^1, and Dong Ryeol Lee^(1*)
+Dept of physics, Soongsil University, Rep of Korea
+
 ## List of library you need.
 numpy, 
 math,
