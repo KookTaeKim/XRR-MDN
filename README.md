@@ -8,7 +8,7 @@ You can use or modify the code freely.
 Non-commercial purpose only.
 
 # list of library you need.
-numpy
+numpy /n
 math
 numba
 random
