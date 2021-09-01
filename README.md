@@ -8,17 +8,17 @@ You can use or modify the code freely.
 Non-commercial purpose only.
 
 # list of library you need.
-numpy /n
-math
-numba
-random
-pandas
-lmfit
-matplotlib
-plotly
-sklearn
-tensorflow
-tensorflow_probability
-keras
-tqdm
+numpy, 
+math,
+numba,
+random,
+pandas,
+lmfit,
+matplotlib,
+plotly,
+sklearn,
+tensorflow,
+tensorflow_probability,
+keras,
+tqdm,
 lmfit
