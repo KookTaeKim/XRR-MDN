@@ -1,4 +1,4 @@
-# XRR-MDN
+## XRR-MDN
 X-ray reflectivity(XRR) data analysis using mixture density network (MDN).
 
 This code is made for the probabilitistic parameter estimation using MDN for the XRR data.
@@ -7,7 +7,7 @@ All code is written in a object oriented way so that you can easily try the exam
 You can use or modify the code freely.
 Non-commercial purpose only.
 
-# list of library you need.
+## List of library you need.
 numpy, 
 math,
 numba,
