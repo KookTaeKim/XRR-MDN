@@ -32,4 +32,4 @@ lmfit
 Please look into the the jupyter notebook.
 
 ## 5. How to cite?
-
+Kook Tae Kim, and Dong Ryeol Lee*,J.Appl.Cryst, Probabilistic parameter estimation using a Gaussian mixture density network: application to X-ray reflectivity data curve fitting 54, 1572-1579, 2021, https://doi.org/10.1107/S1600576721009043
