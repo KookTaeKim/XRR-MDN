@@ -1,5 +1,4 @@
 ## 1. XRR-MDN
-X-ray reflectivity(XRR) data analysis using mixture density network (MDN).\
 Kook Tae Kim, and Dong Ryeol Lee, J. Appl. Cryst., Probabilistic parameter estimation using a Gaussian mixture density network: application to X-ray reflectivity data curve fitting, **54**, 1572-1579, 2021, https://doi.org/10.1107/S1600576721009043
 
 - This code is made for the probabilitistic parameter estimation using MDN for the XRR data.
